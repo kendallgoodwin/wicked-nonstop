@@ -93,7 +93,7 @@ body {
     bottom: .125em;
     left: .125em;
     background-color: #000;
-    opacity: .5;
+    opacity: .4;
 }
 
 /* Change the background position to display letter when the black zone isn't here */
@@ -114,7 +114,7 @@ body {
 }
 
 /* Background image from http://thepatternlibrary.com/ and http://lorempixel.com */
-.clip-text_one {
+/*.clip-text_one {
     background-image: url("grendall3.jpg");
 }
 
@@ -152,7 +152,7 @@ body {
 
 .clip-text_ten {
     background-image: url("grendall2.jpg");
-}
+}*/
 
 .clip-text_eleven {
     background-image: url("grendall3.jpg");
@@ -160,17 +160,21 @@ body {
 }
 
 .clip-text_twelve {
-    background-image: url("grendall2.jpg");
+    background-image: url("grendall4.jpg");
 }
 
-.clip-text_thirteen {
+/*.clip-text_thirteen {
     background-image: url("grendall2.jpg");
-}
+}*/
 
 .clip-text_fourteen {
     background-image: url("grendall2.jpg");
 }
 
-.clip-text_fifteen {
+/*.clip-text_fifteen {
     background-image: url("grendall2.jpg");
+}*/
+
+.icons {
+    text-align: center;
 }
