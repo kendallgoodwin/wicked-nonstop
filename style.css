@@ -163,18 +163,33 @@ body {
     background-image: url("grendall4.jpg");
 }
 
-/*.clip-text_thirteen {
-    background-image: url("grendall2.jpg");
-}*/
-
 .clip-text_fourteen {
     background-image: url("grendall2.jpg");
 }
 
-/*.clip-text_fifteen {
-    background-image: url("grendall2.jpg");
-}*/
+/*/////LINKS & ICONS/////*/
+a {
+    color: white;
+}
+
+.tumblr:hover {
+    color: #0289fc;
+}
+
+.soundcloud:hover {
+    color: #24ee03;
+}
+
+.twitter:hover {
+    color: #fa02d4;
+}
 
 .icons {
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fa-4x {
+    margin-left: 35px;
 }
