@@ -119,46 +119,6 @@ body {
 }
 
 /* Background image from http://thepatternlibrary.com/ and http://lorempixel.com */
-/*.clip-text_one {
-    background-image: url("grendall3.jpg");
-}
-
-.clip-text_two {
-    background-image: url("grendall3.jpg");
-}
-
-.clip-text_tree {
-    background-image: url("grendall3.jpg");
-}
-
-.clip-text_four {
-    background-image: url("grendall2.jpg");
-}
-
-.clip-text_five {
-    background-image: url("grendall2.jpg");
-}
-
-.clip-text_six {
-    background-image: url("grendall2.jpg");
-}
-
-.clip-text_seven {
-    background-image: url("grendall2.jpg");
-}
-
-.clip-text_eight {
-    background-image: url("grendall2.jpg");
-}
-
-.clip-text_nine {
-    background-image: url("grendall2.jpg");
-}
-
-.clip-text_ten {
-    background-image: url("grendall2.jpg");
-}*/
-
 .clip-text_eleven {
     background-image: url("grendall3.jpg");
     background-size: cover;
