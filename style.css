@@ -35,6 +35,7 @@ body {
 
 .wrapper {
     text-align: center;
+    margin-top: 40px;
 }
 
 /*.title {
@@ -128,8 +129,8 @@ body {
     background-image: url("grendall4.jpg");
 }
 
-.clip-text_fourteen {
-    background-image: url("grendall2.jpg");
+.clip-text_image {
+    background-image: url("images/grendall2.jpg");
 }
 
 /*/////LINKS & ICONS/////*/
@@ -158,3 +159,64 @@ a {
 .fa-4x {
     margin-left: 35px;
 }
+
+/*@media only screen and (min-width: 768px) and (max-width: 868px) {
+
+}*/
+
+@media only screen and (min-width: 641px) and (max-width: 767px) {
+    .clip-text_image {
+        /*width: 400px;*/
+    }
+    .clip-text {
+        max-width: 100%;
+        text-align: center;
+        font-size: 7em;
+        font-weight: bold;
+        line-height: 1;
+        position: relative;
+        display: inline-block;
+        margin: .25em;
+        padding: .5em .75em;
+        /*text-align: center;*/
+    }
+    .wrapper {
+        margin-top: 60px;
+    }
+    .icons {
+        margin-top: 40px;
+    }
+}
+
+@media only screen and (min-width: 569px) and (max-width: 641px) {
+    .clip-text {
+        max-width: 100%;
+        text-align: center;
+        font-size: 6.5em;
+        font-weight: bold;
+        line-height: 1;
+        position: relative;
+        display: inline-block;
+        margin: .25em;
+        padding: .5em .75em;
+    }
+    .wrapper {
+        margin-top: 75px;
+    }
+    .icons {
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 568px) {
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+}
+
+@media only screen and (max-width: 320) {
+
+}
+
